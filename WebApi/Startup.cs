@@ -10,8 +10,10 @@ using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 using WebApi.DBOperations;
+using AutoMapper;
 
 namespace WebApi
 {
@@ -30,6 +32,7 @@ namespace WebApi
             services.AddControllers();
             services.AddSwaggerGen();
             services.AddDbContext<BookStoreDbContext>(options=> options.UseInMemoryDatabase(databaseName:"BookStoreDB"));
+            services.AddAutoMapper(Assembly.GetExecutingAssembly());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
