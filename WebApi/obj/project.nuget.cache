@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YcaMhYdu/BB0pHoKiEZSVTqBJEqM+0pWSPjJNZMR14joPCI8+6UgY6WbeMBOiEvmi2Qmg5Wv4/2ypTVcTl/SOQ==",
+  "dgSpecHash": "mJxajkjPd8F7+iBC/Rn7V592OXwuYkX5lofIIzwUs7J4rmcnXfq9Pq/XVEvMllvrezY61Cyap+FVDZ0dFmAmfg==",
   "success": true,
   "projectFilePath": "C:\\Users\\toshiba\\Desktop\\Tüm Klasörler\\pratikler\\BookStore\\BookStore\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\toshiba\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\toshiba\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\toshiba\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
     "C:\\Users\\toshiba\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\toshiba\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\toshiba\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

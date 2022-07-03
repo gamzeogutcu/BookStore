@@ -27,11 +27,6 @@ namespace WebApi.BookOperations.GetBookDetail
                 throw new InvalidOperationException("Kitap bulunamadı!");
 
             BookDetailViewModel vm = _mapper.Map<BookDetailViewModel>(book);
-            //new BookDetailViewModel();
-           /* vm.Title = book.Title;
-            vm.Genre = ((GenreEnum)book.GenreId).ToString();
-            vm.PageCount = book.PageCount;
-            vm.PublishDate = book.PublishDate.Date.ToString("dd/MM/yyyy");*/
             return vm;
         }
     }

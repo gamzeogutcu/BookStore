@@ -61,3 +61,4 @@ C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\BookStore\BookStore\WebApi\bi
 C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\BookStore\BookStore\WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\BookStore\BookStore\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\BookStore\BookStore\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\toshiba\Desktop\Tüm Klasörler\pratikler\BookStore\BookStore\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
